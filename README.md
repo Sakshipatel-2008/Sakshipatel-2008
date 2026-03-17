@@ -1,16 +1,13 @@
-## Hi there 👋
+## 👋 Hello, I'm Shaillu
 
-<!--
-**Sakshipatel-2008/Sakshipatel-2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech Student  
+🐍 Beginner level Python Coder  
+⚡ Exploring programming step by step  
 
-Here are some ideas to get you started:
+## 📚 What I'm Learning
+- Python basics
+- Loops and conditions
+- Problem solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Goal
+To improve my coding skills and build strong fundamentals step by step.
