@@ -1,4 +1,4 @@
-## 👋 Hello, I'm Shaillu
+## 👋 Hello, I'm Sakshi
 
 🎓 BTech Student  
 🐍 Beginner level Python Coder  
