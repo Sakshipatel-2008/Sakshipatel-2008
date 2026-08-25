@@ -1,12 +1,12 @@
-## 👋 Hello, I'm Sakshi
+## Hello, I'm Sakshi
 
-🎓 BTech Student  
+🎓 2nd year BTech Student  
 🐍 Beginner level Python Coder  
-⚡ Exploring programming step by step  
+⚡ Exploring Backend development
 
 ## 📚 What I'm Learning
 - Python basics
-- Loops and conditions
+- Backend development
 - Problem solving
 
 ## 🎯 Goal
