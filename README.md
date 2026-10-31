@@ -25,26 +25,35 @@ To improve my coding skills and build strong fundamentals step by step. -->
 ✉️ &nbsp;You can shoot me an email at <a href="mailto:sakshipatel07012008@gmail.com">sakshipatel07012008@gmail.com</a>! I’ll try to respond as soon as I can.<br>
 📄 &nbsp;Please have a look at my 
 <a href="assets/resume.pdf" target="_blank">Resume</a> for more details about me. I’m open to feedback and suggestions!
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right">
-<h3 id="-tech-stack">🛠 &nbsp;Tech Stack</h3>
-<!-- <p><img src="https://img.shields.io/badge/-Python-05122A?style=flat&amp;logo=python" alt="Python">&nbsp; -->
-<!-- <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&amp;logo=javascript" alt="JavaScript">&nbsp; -->
-<img src="https://img.shields.io/badge/-C-05122A?style=flat&amp;logo=C&amp;logoColor=A8B9CC" alt="C">&nbsp;
-<img src="https://img.shields.io/badge/-C++-05122A?style=flat&amp;logo=C%2B%2B&amp;logoColor=00599C" alt="C++"><br>
-<!-- <img src="https://img.shields.io/badge/-React-05122A?style=flat&amp;logo=react" alt="React">&nbsp; -->
-<img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&amp;logo=node.js" alt="Node.js">&nbsp;
-<!-- <img src="https://img.shields.io/badge/-FastAPI-05122A?style=flat&amp;logo=fastapi" alt="FastAPI">&nbsp; -->
-<!-- <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&amp;logo=postgresql&amp;logoColor=4169E1" alt="PostgreSQL"><br> -->
-<img src="https://img.shields.io/badge/-HTML-05122A?style=flat&amp;logo=HTML5" alt="HTML">&nbsp;
-<img src="https://img.shields.io/badge/-CSS-05122A?style=flat&amp;logo=CSS3&amp;logoColor=1572B6" alt="CSS">&nbsp;
-<img src="https://img.shields.io/badge/-Git-05122A?style=flat&amp;logo=git" alt="Git">&nbsp;
-<img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&amp;logo=github" alt="GitHub">&nbsp;
-<!-- <img src="https://img.shields.io/badge/-Markdown-05122A?style=flat&amp;logo=markdown" alt="Markdown"><br> -->
-<!-- <img src="https://img.shields.io/badge/-Jupyter-05122A?style=flat&amp;logo=jupyter" alt="Jupyter">&nbsp; -->
-<!-- <img src="https://img.shields.io/badge/-Kaggle-05122A?style=flat&amp;logo=kaggle&amp;logoColor=20BEFF" alt="Kaggle">&nbsp; -->
-<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&amp;logo=visual-studio-code&amp;logoColor=007ACC" alt="Visual Studio Code">&nbsp;
-<img src="https://img.shields.io/badge/-Vercel-05122A?style=flat&amp;logo=vercel" alt="Vercel"></p>
+
+<br>
+</p>
+
+<h3>🛠 &nbsp;Tech Stack</h3>
+
+<table>
+  <tr>
+    <td valign="middle" width="65%">
+      <p>
+        <img src="https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC" alt="C">
+        <img src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C" alt="C++">
+        <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js" alt="Node.js">
+        <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" alt="HTML">
+        <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6" alt="CSS">
+        <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" alt="Git">
+        <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" alt="GitHub">
+        <img src="https://img.shields.io/badge/-VS_Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC" alt="VS Code">
+        <img src="https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel" alt="Vercel">
+      </p>
+    </td>
+    <td valign="middle" width="35%" align="center">
+      <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="250" alt="Night Coding">
+    </td>
+  </tr>
+</table>
+
 <h3 id="️-github-analytics">⚙️ &nbsp;GitHub Analytics</h3>
+
 <p align="center"><br>
 <a href="https://github.com/Sakshipatel-2008">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sakshipatel-2008&amp;show_icons=true&amp;theme=algolia&amp;include_all_commits=true&amp;count_private=true">
