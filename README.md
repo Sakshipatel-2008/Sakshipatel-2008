@@ -24,7 +24,7 @@ To improve my coding skills and build strong fundamentals step by step. -->
 💬 &nbsp;Feel free to reach out to me for collaboration, learning together, or just for some interesting discussion.<br>
 ✉️ &nbsp;You can shoot me an email at <a href="mailto:sakshipatel07012008@gmail.com">sakshipatel07012008@gmail.com</a>! I’ll try to respond as soon as I can.<br>
 📄 &nbsp;Please have a look at my 
-<a href="assets/resume.pdf" target="_blank">Resume</a> for more details about me. I’m open to feedback and suggestions!<br>
+<a href="assets/resume.pdf" target="_blank">Resume</a> for more details about me. I’m open to feedback and suggestions!
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right">
 <h3 id="-tech-stack">🛠 &nbsp;Tech Stack</h3>
 <!-- <p><img src="https://img.shields.io/badge/-Python-05122A?style=flat&amp;logo=python" alt="Python">&nbsp; -->
