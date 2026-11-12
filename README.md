@@ -63,7 +63,7 @@ To improve my coding skills and build strong fundamentals step by step. -->
 <h3 id="-connect-with-me">🤝🏻 &nbsp;Connect with Me</h3>
 <p align="center">
 <!-- <a href="#"><img src="https://img.shields.io/badge/-Portfolio-3423A6?style=flat&amp;logo=Google-Chrome&amp;logoColor=white"></a> -->
-<a href="https://linkedin.com/in/sakshipatel2008"><img src="https://img.shields.io/badge/-Shailly-0077B5?style=flat&amp;logo=Linkedin&amp;logoColor=white"></a>
+<a href="https://linkedin.com/in/sakshipatel2008"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&amp;logo=Linkedin&amp;logoColor=white"></a>
 <!-- <a href="#"><img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&amp;logo=Kaggle&amp;logoColor=white"></a> -->
 <a href="mailto:sakshipatel07012008@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&amp;logo=Gmail&amp;logoColor=white"></a>
 <a href="https://instagram.com/sakshiurfshailly"><img src="https://img.shields.io/badge/-@sakshiurfshailly-E4405F?style=flat&amp;logo=Instagram&amp;logoColor=white"></a>
